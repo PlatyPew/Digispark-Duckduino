@@ -8,7 +8,7 @@ void setup() {
   DigiKeyboard.delay(500);
   DigiKeyboard.println("mode con: cols=16 lines=1&color FE");
   DigiKeyboard.delay(100);
-  DigiKeyboard.println("cd Desktop&powershell (wget 'your_image_url' -outfile s0m3fi13n4m3.jpg)"); //Add image
+  DigiKeyboard.println("cd Desktop&powershell (wget '<your_image_url>' -outfile s0m3fi13n4m3.jpg)"); //Add image
   DigiKeyboard.delay(8000);
   DigiKeyboard.sendKeyStroke(7,MOD_GUI_LEFT);
   DigiKeyboard.delay(200);
