@@ -1,2 +1,2 @@
 # Duckduino-Digispark
-Just a bunch of cod and stuff
+Just a bunch of code and stuff
