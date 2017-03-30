@@ -8,5 +8,5 @@ Sets it as Desktop background
 
 Deletes image into oblivion
 
-# Note:
+# Note
 You may need to change the delay because internet speeds may be slow
