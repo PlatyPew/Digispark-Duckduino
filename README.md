@@ -28,4 +28,5 @@ Just something I would like to get off my chest.
 * ~ Don't learn to hack. Hack to learn.
 
 ## Support them at
-https://hakshop.com/products/usb-rubber-ducky-deluxe
+* Buy the Rubber Ducky: https://hakshop.com/products/usb-rubber-ducky-deluxe
+* Digispark Github Page: https://github.com/digistump
