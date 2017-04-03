@@ -11,7 +11,8 @@ Change all the stuff that are in between <> to your own
 Example: <your_image_url_here> becomes http://i.imgur.com/Q8ZNXS8.jpg?1
 
 # Updates?
-Planning on giving abilites to control the mouse
+* Create a generator: https://github.com/PlatyPooper/Duckduino-Digispark/tree/master/generator
+* Planning on giving abilites to control the mouse
 
 ## Support them at
 https://hakshop.com/products/usb-rubber-ducky-deluxe
