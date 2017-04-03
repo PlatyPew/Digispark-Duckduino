@@ -30,3 +30,8 @@ You can also string multiple modifier keys (Up to 2)
 * `SPACE`
 * `ENTER`
 * `F1 - F12`
+
+# Notice
+String must not be more than 99 characters long. Don't blame me, Digispark only has 512 puny bytes of memory
+
+Also, don't expect to be storing huge amounts of text with 3kb
