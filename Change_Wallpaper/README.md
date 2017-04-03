@@ -9,4 +9,4 @@ Sets it as Desktop background
 Deletes image into oblivion
 
 # Note
-You may need to change the delay because internet speeds may be slow
+You may need to change the delay because internet speeds may be slow: https://github.com/PlatyPooper/Digispark-Duckduino/blob/master/Change_Wallpaper/Change_Wallpaper.ino#L12
