@@ -11,14 +11,15 @@ Change all the stuff that are in between <> to your own
 Example: <your_image_url_here> becomes http://i.imgur.com/Q8ZNXS8.jpg?1
 
 # Updates?
+Making life easier/harder for myself.
 ## Completed
 * Create a generator: https://github.com/PlatyPooper/Duckduino-Digispark/tree/master/generator
 ## Planning/Work in Progress
-* Control mouse
+* Control over mouse. (Planning)
 
 # Disclaimer!
 * I am in no way encourage any malicious use of the payloads provided on this page. It is purely for the fun of it. I am in no way responsible for any misuse.
-* The software is for educational purposes only!
+* Everything in this repository is strictly for educational purposes. (Aka I don't want to get sues kthnxbye)
 
 ## Others:
 Just something I would like to get off my chest.
