@@ -5,8 +5,6 @@ Ever wanted to purchase one of these?
 
 But, you are broke? Well do not fear! Digispark is here!
 
-![Github Logo](http://www.14core.com/wp-content/uploads/2015/08/digispark-attiny85-chiosz-robots-3.png)
-
 You can watch the video on how to set it up here! https://www.youtube.com/watch?v=fGmGBa-4cYQ
 # Instructions
 Change all the stuff that are in between <> to your own
