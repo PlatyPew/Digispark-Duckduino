@@ -12,3 +12,6 @@ Example: <your_image_url_here> becomes http://i.imgur.com/Q8ZNXS8.jpg?1
 
 # Note
 All the attacks require victim to be using Windows 10 and to leave his computer unattended for a minute or so
+
+## Support them at
+https://hakshop.com/products/usb-rubber-ducky-deluxe
