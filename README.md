@@ -10,8 +10,8 @@ You can watch the video on how to set it up here! https://www.youtube.com/watch?
 Change all the stuff that are in between <> to your own
 Example: <your_image_url_here> becomes http://i.imgur.com/Q8ZNXS8.jpg?1
 
-# Note
-All the attacks require victim to be using Windows 10 and to leave his computer unattended for a minute or so
+# Updates?
+Planning on giving abilites to control the mouse
 
 ## Support them at
 https://hakshop.com/products/usb-rubber-ducky-deluxe
