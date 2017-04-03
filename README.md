@@ -24,7 +24,6 @@ Example: <your_image_url_here> becomes http://i.imgur.com/Q8ZNXS8.jpg?1
 Just something I would like to get off my chest.
 
 * If you just grab payloads start sticking it into devices and call yourself an \*elite hacker\*, then I'm sorry, you are a script kiddie.
-* Watch this video by LiveOverflow: https://youtu.be/iKXd9zW1OuI
 * ~ Don't learn to hack. Hack to learn.
 
 ## Support them at
