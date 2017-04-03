@@ -1,7 +1,7 @@
 # Duckduino-Digispark
 Ever wanted to purchase one of these? 
 
-![GitHub Logo](https://cdn.shopify.com/s/files/1/0068/2142/products/5_a5b8fbd7-02fc-4f7a-a447-d3899635ba77_1024x1024.jpg?v=1475091574) 
+https://cdn.shopify.com/s/files/1/0068/2142/products/5_a5b8fbd7-02fc-4f7a-a447-d3899635ba77_1024x1024.jpg?v=1475091574
 
 But, you are broke? Well do not fear! Digispark is here!
 
