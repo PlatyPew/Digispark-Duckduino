@@ -15,8 +15,9 @@ Making life easier/harder for myself.
 ## Completed
 * Create a generator: https://github.com/PlatyPooper/Duckduino-Digispark/tree/master/generator
 ## Planning/Work in Progress
-* Control over mouse. (Planning)
 
+## Discontinued
+* Control over mouse. (Planning)
 # Disclaimer!
 * I am in no way encourage any malicious use of the payloads provided on this page. It is purely for the fun of it. I am in no way responsible for any misuse.
 * Everything in this repository is strictly for educational purposes. aka I don't want to get sued kthnxbye
