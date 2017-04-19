@@ -6,11 +6,12 @@ dic = {'A':4, 'B':5, 'C':6, 'D':7, 'E':8, 'F':9, 'G':10, 'H':11, 'I':12, 'J':13,
 f = open('duckduino.ino','w')
 p = open('script.duckos','r')
 
-f.write('#include \"DigiKeyboard.h\"\n#include <avr/pgmspace.h>\n\n')
+f.write('#include\"DigiKeyboard.h\"\n#include <avr/pgmspace.h>\n\n')
 
 i = 0
 while True:
-	code = p.readline().replace('"','\\"')
+	code = p.readline().replace("\\","\\\\")
+	code = code.replace('"','\\"')
 	if 'STRING ' in code:
 		i += 1
 		f.write('const char line%d[] PROGMEM = \"%s\";\n' % (i, code[7:-1]))
@@ -24,6 +25,7 @@ f.write('char buffer[100];\n#define GetPsz(x) (strcpy_P(buffer,(char*)x))\n\n')
 f.write('void printText(char*txt) {\n\tint l = strlen(txt);\n\tfor (int i = 0; i < l; i++) {\n\t\tDigiKeyboard.print(txt[i]);\n\t\tDigiKeyboard.update();\n\t}\n}\n')
 
 f.write('void setup() {\n')
+
 p.seek(0)
 i = 0
 while True:
