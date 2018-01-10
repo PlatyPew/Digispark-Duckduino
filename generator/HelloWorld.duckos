@@ -1,0 +1,6 @@
+REM Opens command prompt and echos Hello World
+GUI R
+DELAY 200
+STRINGLN cmd
+DELAY 200
+STRINGLN echo "Hello World"
