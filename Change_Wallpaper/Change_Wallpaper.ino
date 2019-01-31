@@ -6,6 +6,8 @@ void setup() {
   DigiKeyboard.delay(100);
   DigiKeyboard.println("cmd");
   DigiKeyboard.delay(500);
+  DigiKeyboard.sendKeyStroke(67,KEY_ENTER);
+  DigiKeyboard.delay(500);
   DigiKeyboard.println("mode con: cols=16 lines=1&color FE");
   DigiKeyboard.delay(100);
   DigiKeyboard.println("cd Desktop&powershell (wget '<your_image_url>' -outfile s0m3fi13n4m3.jpg)"); //Add image
